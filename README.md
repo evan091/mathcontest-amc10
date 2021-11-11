@@ -1,0 +1,1 @@
+# mathcontest-amc10
