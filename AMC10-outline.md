@@ -77,7 +77,7 @@
 - Mean, Median and Mode
 	+ 2021A5 mean
 	+ 2021B6 ratio
-	+ 2021B19
+	+ 2021B19 algebra
 	+ 2020A2
 	+ 2020A11
 
